@@ -1,6 +1,9 @@
 # ToggleToggle  
-v0.2
-Nathan Crank -- @nathancrank -- nathancrank.com
+v0.3
+Nathan Crank -- [@nathancrank](http://twitter.com/nathancrank) -- [http://nathancrank.com](http://nathancrank.com)
+
+*Other contributors:
+Justin Wilson -- [@justin\_j\_wilson](http://twitter.com/justin_j_wilson) -- [http://justinjwilson.com](http://justinjwilson.com)*
 
 ## About
 This application quickly changes the finder between showing and not showing hidden files.
@@ -9,7 +12,7 @@ Stick it on your Finder toolbar for quick access. Or stick it in your dock. Or g
 
 It is just an Automator application wrapping an AppleScript.
 
-This needs an icon.
+~~This needs an icon.~~
 
 ## Requirements
 Mac OS X Lion 10.7.4 or greater
@@ -18,6 +21,7 @@ Mac OS X Lion 10.7.4 or greater
 Public Domain
 
 ## Changelog
+* v0.3 - added a nifty icon, updated Readme
 
 * v0.2
 	- updated to newer automator growl action
